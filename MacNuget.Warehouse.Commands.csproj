@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <WarningsAsErrors>CS8602,CS8603,CS8629,CS8600</WarningsAsErrors>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageVersion>0.0.1</PackageVersion>
+        <PackageVersion>0.0.2</PackageVersion>
         <PackageProjectUrl>github.com/macnuget/MacNuget.Warehouse.Commands</PackageProjectUrl>
         <RepositoryUrl>github.com/macnuget/MacNuget.Warehouse.Commands</RepositoryUrl>
     </PropertyGroup>

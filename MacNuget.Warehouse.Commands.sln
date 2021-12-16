@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacNuget.Warehouse.Commands", "MacNuget.Warehouse.Commands.csproj", "{9DE83050-3DA3-460C-A0EB-83B68C6D53C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE83050-3DA3-460C-A0EB-83B68C6D53C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE83050-3DA3-460C-A0EB-83B68C6D53C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE83050-3DA3-460C-A0EB-83B68C6D53C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE83050-3DA3-460C-A0EB-83B68C6D53C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

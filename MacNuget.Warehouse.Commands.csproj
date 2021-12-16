@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <WarningsAsErrors>CS8602,CS8603,CS8629,CS8600</WarningsAsErrors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>0.0.1</PackageVersion>
+        <PackageProjectUrl>github.com/macnuget/MacNuget.Warehouse.Commands</PackageProjectUrl>
+        <RepositoryUrl>github.com/macnuget/MacNuget.Warehouse.Commands</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
